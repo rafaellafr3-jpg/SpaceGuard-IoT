@@ -118,7 +118,7 @@ O sistema foi capaz de:
 
 Link do vídeo:
 
-[INSERIR LINK DO YOUTUBE]
+https://youtu.be/0BC5_GxHoek
 
 ---
 
@@ -126,7 +126,7 @@ Link do vídeo:
 
 Link do projeto Tinkercad:
 
-[INSERIR LINK DO TINKERCAD]
+(https://www.tinkercad.com/things/5IrDt5BvKUH-grand-tumelo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=ALlH94MFyL8DQSYSGRoXTZlfmdm5soQHObffyvxLaBc)
 
 ---
 
